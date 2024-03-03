@@ -14,7 +14,7 @@
 
 ## Telerfone 📞
 
-[![Discord](https://img.shields.io/badge/-tsukioni%230000-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](http://discord.com/app)
+[![Discord](https://img.shields.io/badge/-nuhuh%230000-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](http://discord.com/app)
 
 
 ## stat 📊
